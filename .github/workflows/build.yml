@@ -22,11 +22,11 @@ jobs:
       uses: gradle/actions/setup-gradle@v3
 
     - name: Build APK
-      run: gradle assembleDebug
+      run: gradle assembleDebug --stacktrace
+      continue-on-error: false
 
     - name: Upload APK
       uses: actions/upload-artifact@v4
       with:
         name: Bhasha-Amar-APK
         path: app/build/outputs/apk/debug/app-debug.apk
-        
