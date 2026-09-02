@@ -1,0 +1,6 @@
+{
+  "name": "Bhasha Amar",
+  "description": "भाषा अमर | Bhasha Amar — Professional Multilingual AI Voice Studio with Flagship Odia (ଓଡ଼ିଆ), Hindi, English & Bengali Voice Generation. Founded by Indrajit Hota.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

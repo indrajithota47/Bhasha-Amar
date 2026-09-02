@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bhasha Amar</string>
+    <string name="brand_hindi">भाषा अमर</string>
+    <string name="brand_odia">ଭାଷା ଅମର</string>
+    <string name="brand_full">भाषा अमर | Bhasha Amar</string>
+    <string name="app_tagline">Every Language. Every Emotion. Every Voice.</string>
+    <string name="app_tagline_odia">ଭାଷା ଅମର — Every Voice Has a Language.</string>
+    <string name="app_tagline_alt">Your Words. Your Language. Your Voice.</string>
+    <string name="founder_name">Indrajit Hota</string>
+    <string name="founder_full">Founded by Indrajit Hota</string>
+    <string name="founder_company">47ynk films</string>
+    <string name="copyright_notice">© 2026 Indrajit Hota. All Rights Reserved.</string>
+</resources>
